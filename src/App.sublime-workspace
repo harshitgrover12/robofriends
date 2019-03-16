@@ -1,0 +1,353 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"get",
+				"getElementsByTagName"
+			],
+			[
+				"but",
+				"button"
+			],
+			[
+				"Creat",
+				"createTextNode"
+			],
+			[
+				"I",
+				"INT_MAX"
+			],
+			[
+				"de",
+				"devanagari"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"left",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"le",
+				"padding-left"
+			],
+			[
+				"form",
+				"form1"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"aut",
+				"autofocus\tAttr"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"text-",
+				"text-indent"
+			],
+			[
+				"w",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ravik/Desktop/java.html",
+		"/F/web dev/12. Advanced Javascript/FOR.html",
+		"/F/web dev/12. Advanced Javascript/10.2 exercise5-SOLUTIONS (1).js.js",
+		"/F/web dev/12. Advanced Javascript/12.1 exercise6 SOLUTIONS.js.js",
+		"/C/Users/ravik/Desktop/dom/package-lock.json",
+		"/F/web dev/11. DOM Manipulation/index.html.html",
+		"/F/web dev/11. DOM Manipulation/9.2 style.css.css",
+		"/F/web dev/11. DOM Manipulation/9.1 index.html.html",
+		"/F/web dev/11. DOM Manipulation/style.css.css",
+		"/F/web dev/12. Advanced Javascript/2.1 exercise1.js.js",
+		"/F/web dev/12. Advanced Javascript/2.2 exercise1-SOLUTIONS.js.js",
+		"/F/web dev/12. Advanced Javascript/6.2 exercise3.js.js",
+		"/F/web dev/12. Advanced Javascript/6.1 exercise3-SOLUTIONS.js.js",
+		"/F/web dev/11. DOM Manipulation/script.js",
+		"/F/web dev/11. DOM Manipulation/script.js.js",
+		"/F/web dev/11. DOM Manipulation/6.3 style.css.css",
+		"/C/Users/ravik/Desktop/codeforces/TE.html",
+		"/F/web dev/11. DOM Manipulation/6.2 index.html.html",
+		"/F/web dev/11. DOM Manipulation/6.1 script.js.js",
+		"/C/Users/ravik/Desktop/codeforces/ctf.html",
+		"/C/Users/ravik/Desktop/codeforces/Eugeny and array.cpp",
+		"/C/Users/ravik/Desktop/codeforces/table.cpp",
+		"/C/Users/ravik/Desktop/chef and operations.cpp",
+		"/C/Users/ravik/Desktop/snack2.cpp",
+		"/C/Users/ravik/Desktop/chef and semiprimes.cpp",
+		"/C/Users/ravik/Desktop/spreadword.cpp",
+		"/C/Users/ravik/Desktop/findingteam.cpp",
+		"/C/Users/ravik/Desktop/codeforces/magicalword.cpp",
+		"/C/Users/ravik/Desktop/kivy/SimpleKivy2.kv",
+		"/C/Users/ravik/Desktop/kivy/SimpleKivy.kv",
+		"/C/Users/ravik/Desktop/codeforces/llya and bank account.cpp",
+		"/C/Users/ravik/Desktop/codeforces/cheap travel.cpp",
+		"/C/Users/ravik/Desktop/codeforces/even and odd.cpp",
+		"/C/Users/ravik/Desktop/codeforces/webcoding.html",
+		"/C/Users/ravik/Desktop/codeforces/i wanna be the gu.cpp",
+		"/C/Users/ravik/Desktop/codeforces/anton and letters.cpp",
+		"/C/Users/ravik/Desktop/codeforces/puzzles.cpp",
+		"/C/Users/ravik/Desktop/html tutorial/dragon.cpp",
+		"/C/Users/ravik/Desktop/html tutorial/pashmak and garden.cpp",
+		"/C/Users/ravik/Desktop/html tutorial/facebook.html",
+		"/C/Users/ravik/Desktop/codeforces/index.css",
+		"/C/Users/ravik/Desktop/first.cpp",
+		"/C/Users/ravik/Desktop/codeforces/arrivalofthegeneral.cpp",
+		"/C/Users/ravik/Desktop/codeforces/games.cpp",
+		"/C/Users/ravik/Desktop/codeforces/dubstep.cpp",
+		"/C/Users/ravik/Desktop/codeforces/youngphysict.cpp",
+		"/C/Users/ravik/Desktop/codeforces/gamewithsticks.cpp",
+		"/C/Users/ravik/Desktop/fbk page.html",
+		"/C/Users/ravik/Desktop/game.html",
+		"/C/Users/ravik/Desktop/logic.js",
+		"/C/Users/ravik/Documents/hackathon.html",
+		"/C/Users/ravik/Desktop/html tutorial/presents.cpp",
+		"/C/Users/ravik/Desktop/html tutorial/beautifulmatrix.cpp",
+		"/C/Users/ravik/Desktop/har.css",
+		"/C/Users/ravik/Desktop/facebook.html",
+		"/C/Users/ravik/Desktop/helllo1.html",
+		"/C/Users/ravik/Desktop/learn-center/css/reset.css",
+		"/C/Users/ravik/Desktop/learn-center/css/layout.css",
+		"/C/Users/ravik/Downloads/bootstrap-4.0.0/bootstrap-4.0.0/sw.js",
+		"/C/Users/ravik/Downloads/bootstrap-4.0.0/bootstrap-4.0.0/package.js",
+		"/C/Users/ravik/Desktop/learn-center/css/style.css",
+		"/C/Users/ravik/Desktop/learn-center/index.html",
+		"/C/Users/ravik/Downloads/bootstrap-4.0.0/bootstrap-4.0.0/dist/css/bootstrap-reboot.min.css",
+		"/C/Users/ravik/Desktop/learn-center/admissions.html",
+		"/C/Users/ravik/Downloads/bootstrap-4.0.0/bootstrap-4.0.0/dist/css/bootstrap-grid.min.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
